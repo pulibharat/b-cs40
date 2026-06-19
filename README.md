@@ -306,8 +306,8 @@ npm run start
   ]
 }
 ```
-
 ### FAQ Suggestions (`faqSuggestions`)
+
 ```typescript
 {
   userId?: ObjectId;
@@ -319,6 +319,7 @@ npm run start
   adminReview?: string;
   createdAt: Date;
 }
+
 ```
 
 ---
