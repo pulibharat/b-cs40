@@ -323,7 +323,7 @@ npm run start
 
 ---
 
-## 🎨 UI & Design Principles
+## 🎨 UI & Design Principles-
 
 The UI has been tailored to reflect Vicharanashala's professional standards:
 - **Clean Theme**: Pristine modern backdrop styling (`#FFFFFF` / `#F8FAFC`).
